@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/codechef/codechef.iml" filepath="$PROJECT_DIR$/codechef/codechef.iml" />
-      <module fileurl="file://$PROJECT_DIR$/codeforces/codeforces.iml" filepath="$PROJECT_DIR$/codeforces/codeforces.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hackerRank/hackerRank.iml" filepath="$PROJECT_DIR$/hackerRank/hackerRank.iml" />
-      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codeforces/Watermelon/Watermelon.iml" filepath="$PROJECT_DIR$/codeforces/Watermelon/Watermelon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codeforces/Way_too_long_words/Way_too_long_words.iml" filepath="$PROJECT_DIR$/codeforces/Way_too_long_words/Way_too_long_words.iml" />
       <module fileurl="file://$PROJECT_DIR$/problem_solving.iml" filepath="$PROJECT_DIR$/problem_solving.iml" />
     </modules>
   </component>

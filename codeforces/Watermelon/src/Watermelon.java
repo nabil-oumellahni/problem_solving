@@ -1,7 +1,8 @@
-/**
- * Created by nabil on 25 Dec 2022 at 22:53
- **/
 import java.util.Scanner;
+
+/**
+ * Created by nabil on 25 Dec 2022 at 23:17
+ **/
 
 public class Watermelon {
     public static void main(String[] args) {
