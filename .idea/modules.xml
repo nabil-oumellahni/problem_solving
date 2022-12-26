@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/codeforces/Coloring/Coloring.iml" filepath="$PROJECT_DIR$/codeforces/Coloring/Coloring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/Two_sum/Two_sum.iml" filepath="$PROJECT_DIR$/leetcode/Two_sum/Two_sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/codeforces/Watermelon/Watermelon.iml" filepath="$PROJECT_DIR$/codeforces/Watermelon/Watermelon.iml" />
       <module fileurl="file://$PROJECT_DIR$/codeforces/Way_too_long_words/Way_too_long_words.iml" filepath="$PROJECT_DIR$/codeforces/Way_too_long_words/Way_too_long_words.iml" />
       <module fileurl="file://$PROJECT_DIR$/problem_solving.iml" filepath="$PROJECT_DIR$/problem_solving.iml" />
